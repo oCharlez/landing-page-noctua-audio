@@ -1,6 +1,6 @@
 # Landing Page - Noctua Audio
 
-[Ver Projeto Online]([https://github.com/oCharlez/landing-page-noctua-audio.git]) ![Uma prévia da landing page da Noctua Audio, mostrando o cabeçalho, a seção hero com um fone de ouvido e a seção de funcionalidades.](https://imgur.com/a/28OIysY) ## 📖 Sobre o Projeto
+Ver Projeto Online [https://github.com/oCharlez/landing-page-noctua-audio.git] !(https://imgur.com/a/28OIysY) ## 📖 Sobre o Projeto
 
 Este projeto é uma landing page completa e responsiva para a marca fictícia de fones de ouvido "Noctua Audio". Desenvolvido como um exercício prático do curso Full Stack da B7Web, o objetivo foi solidificar conceitos de **HTML semântico**, **CSS avançado** e introduzir a **interatividade com JavaScript**.
 
