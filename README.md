@@ -49,5 +49,5 @@ A página foi construída do zero, focando em arquitetura de CSS moderna (variá
 
 Desenvolvido por **Charles Gabriel**.
 
-- **LinkedIn:** [linkedin.com/in/oCharlez](https://linkedin.com/in/charlesgloliveira)
+- **LinkedIn:** [linkedin.com/in/charlesgloliveira](https://linkedin.com/in/charlesgloliveira)
 - **GitHub:** [@oCharlez](https://github.com/oCharlez)
